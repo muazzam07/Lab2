@@ -2,12 +2,23 @@ Finance team
 Charles
 Lisa
 John
+<<<<<<< HEAD
+
+
 Stacy
 Alexander
+=======
+>>>>>>> master
 
 Marketing team
 Collins
 Linda
 Patricia
+<<<<<<< HEAD
+
+
 Morgan
 Amanda
+=======
+Morgan
+>>>>>>> master
